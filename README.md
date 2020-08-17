@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# INT160 - Build Your Own Enterprise-Ready Chatbot with SAP Conversational AI
 
 ## Description
 
