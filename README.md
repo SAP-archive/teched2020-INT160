@@ -14,17 +14,6 @@ No specific requirements needed.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - Build Your First Chatbot with SAP Conversational AI](https://developers.sap.com/tutorials/cai-bot-getting-started.html)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
 **OR** Link to the PDF document stored in your github repo for example...
 
 Start the exercises [here](exercises/myPDFDoc.pdf).
@@ -34,7 +23,8 @@ Start the exercises [here](exercises/myPDFDoc.pdf).
 Start the exercises
 -  [Exercise 1 - Build Your First Chatbot with SAP Conversational AI](https://developers.sap.com/tutorials/cai-bot-getting-started.html)
 -  [Exercise 2 - Create a Chatbot that Lets Customers Track Packages](https://developers.sap.com/tutorials/cai-bot-shipping-1-track-bot.html)
-- 
+-  [Exercise 3 - Let Customers Ask Chatbot for Shipping Price](https://developers.sap.com/tutorials/cai-bot-shipping-3-price-parcel.html)
+-  [Exercise 4 - Deploy Your Chatbot on your Website with the SAP Conversational AI Web Client]
 
 **IMPORTANT**
 
