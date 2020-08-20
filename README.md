@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called # INT160 - Build Your Own Enterprise-Ready Chatbot with SAP Conversational AI.
 
 ## Overview
 
@@ -10,7 +10,7 @@ This session introduces attendees to...
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+No specific requirements needed.
 
 ## Exercises
 
@@ -31,7 +31,10 @@ Start the exercises [here](exercises/myPDFDoc.pdf).
     
 **OR** Link to the Tutorial Navigator for example...
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+Start the exercises
+-  [Exercise 1 - Build Your First Chatbot with SAP Conversational AI](https://developers.sap.com/tutorials/cai-bot-getting-started.html)
+-  [Exercise 2 - Create a Chatbot that Lets Customers Track Packages](https://developers.sap.com/tutorials/cai-bot-shipping-1-track-bot.html)
+- 
 
 **IMPORTANT**
 
