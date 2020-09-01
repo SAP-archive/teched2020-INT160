@@ -24,7 +24,7 @@ Start the exercises
 -  [Exercise 1 - Build Your First Chatbot with SAP Conversational AI](https://developers.sap.com/tutorials/cai-bot-getting-started.html)
 -  [Exercise 2 - Create a Chatbot that Lets Customers Track Packages](https://developers.sap.com/tutorials/cai-bot-shipping-1-track-bot.html)
 -  [Exercise 3 - Let Customers Ask Chatbot for Shipping Price](https://developers.sap.com/tutorials/cai-bot-shipping-3-price-parcel.html)
--  [Exercise 4 - Consume APIs and Call Webhooks from your Chatbot] (https://developers.sap.com/group.conversational-ai-external-services.html)
+-  [Exercise 4 - Consume APIs and Call Webhooks from your Chatbot](https://developers.sap.com/group.conversational-ai-external-services.html)
 -  [Exercise 5 - Deploy Your Chatbot on your Website with the SAP Conversational AI Web Client]
 -  [Exercise 6 - Deploy Your Chatbot on your SAP Fiori Launchpad with the SAP Conversational AI Web Client]
 -  [Exercise 7 - Monitor The Performance of your Chatbot]
