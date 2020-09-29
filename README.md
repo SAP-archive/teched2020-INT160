@@ -26,7 +26,7 @@ Start the exercises
 -  [Exercise 3 - Let Customers Ask Chatbot for Shipping Price](https://developers.sap.com/tutorials/cai-bot-shipping-3-price-parcel.html)
 -  [Exercise 4 - Consume APIs and Call Webhooks from your Chatbot](https://developers.sap.com/group.conversational-ai-external-services.html)
 -  [Exercise 5 - Deploy Your Chatbot on your Website with the SAP Conversational AI Web Client]
--  [Exercise 6 - Deploy Your Chatbot on your SAP Fiori Launchpad with the SAP Conversational AI Web Client]
+-  [Exercise 6 - Deploy Your Chatbot into an on-premise SAP Fiori Launchpad with the SAP Conversational AI Web Client]
 -  [Exercise 7 - Deploy Your Chatbot on Microsoft Teams](https://developers.sap.com/tutorials/conversational-ai-deploy-teams.html)
 
 **IMPORTANT**
