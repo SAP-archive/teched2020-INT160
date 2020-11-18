@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2020 session called # I
 
 ## Overview
 
-Have you always wanted to build your own chatbot? Join our expert for two hours and leave with a fully functional chatbot created on your own with SAP Conversational AI.
+Have you always wanted to build your own chatbot? Join our experts for two hours and leave with an enterprise-ready chatbot created on your own with [SAP Conversational AI](https://help.sap.com/viewer/product/SAP_CONVERSATIONAL_AI/latest/en-US)
 
 ## Requirements
 
