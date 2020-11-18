@@ -14,13 +14,6 @@ You need to sign up and create your SAP Conversational AI account on https://cai
 
 ## Exercises
 
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises
 -  [Exercise 1 - Set up your account and your first chatbot](https://developers.sap.com/tutorials/cai-bot-getting-started.html)
 -  [Exercise 2 - Create a chatbot that lets customers track packages](https://developers.sap.com/tutorials/cai-bot-shipping-1-track-bot.html)
 -  [Exercise 3 - Let customers ask chatbot for shipping price](https://developers.sap.com/tutorials/cai-bot-shipping-3-price-parcel.html)
