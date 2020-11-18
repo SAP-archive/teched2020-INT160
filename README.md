@@ -10,7 +10,7 @@ Have you always wanted to build your own chatbot? Join our experts for two hours
 
 ## Requirements
 
-You need to sign up and create your SAP Conversational AI account on https://cai.tools.sap/
+You need to sign up and create your SAP Conversational AI account on https://cai.tools.sap/.
 
 ## Exercises
 
