@@ -6,11 +6,11 @@ This repository contains the material for the SAP TechEd 2020 session called # I
 
 ## Overview
 
-This session introduces attendees to...
+Have you always wanted to build your own chatbot? Join our expert for two hours and leave with a fully functional chatbot created on your own.
 
 ## Requirements
 
-No specific requirements needed.
+You need to sign up and create your SAP Conversational AI account on https://cai.tools.sap/
 
 ## Exercises
 
