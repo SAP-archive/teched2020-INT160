@@ -21,10 +21,6 @@ You need to sign up and create your SAP Conversational AI account on https://cai
 -  [Exercise 5 - Deploy your chatbot on your website or a Fiori Launchpad with the SAP Conversational AI Web Client](https://github.com/SAP-samples/teched2020-INT160/blob/master/exercises/Exercise%205%20-%20Deploy%20Your%20Chatbot%20on%20your%20Website%20or%20a%20Fiori%20Launchpad%20with%20the%20SAP%20Conversational%20AI%20Web%20Client.pdf)
 -  [Exercise 6 - Deploy your chatbot on Microsoft Teams](https://developers.sap.com/tutorials/conversational-ai-deploy-teams.html)
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder.
-
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
