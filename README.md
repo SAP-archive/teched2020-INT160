@@ -15,7 +15,7 @@ You need to sign up and create your SAP Conversational AI account on https://cai
 ## Exercises
 
 -  [Exercise 1 - Set up your account and your first chatbot](https://developers.sap.com/tutorials/cai-bot-getting-started.html)
--  [Exercise 2 - Create a chatbot that lets customers track packages](https://developers.sap.com/tutorials/cai-bot-shipping-1-track-bot.html)
+-  Exercise 2 - Create a chatbot that lets customers track packages [Part 1](https://developers.sap.com/tutorials/cai-bot-shipping-1-track-bot.html) and [Part 2](https://developers.sap.com/tutorials/cai-bot-shipping-2-api.html)
 -  [Exercise 3 - Let customers ask chatbot for shipping price](https://developers.sap.com/tutorials/cai-bot-shipping-3-price-parcel.html)
 -  [Exercise 4 - Consume APIs and call webhooks from your chatbot](https://developers.sap.com/group.conversational-ai-external-services.html)
 -  [Exercise 5 - Deploy your chatbot on your website or a Fiori Launchpad with the SAP Conversational AI Web Client](https://github.com/SAP-samples/teched2020-INT160/blob/master/exercises/Exercise%205%20-%20Deploy%20Your%20Chatbot%20on%20your%20Website%20or%20a%20Fiori%20Launchpad%20with%20the%20SAP%20Conversational%20AI%20Web%20Client.pdf)
