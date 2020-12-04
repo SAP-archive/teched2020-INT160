@@ -1,4 +1,4 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Showing customer information fetched from OData service
 
 In this exercise, we will build a bot that fetches a list of customers from an OData service and shows it to the user as a list.
 
