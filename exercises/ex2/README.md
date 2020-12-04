@@ -6,7 +6,7 @@ In this exercise, we will build a bot that fetches a list of customers from an O
 
 1. Navigate to https://cai.tools.sap and login
 
-2. Click on "# New bot"
+2. Click on "+ New bot"
 
 3. Select "Perform Actions"
 
@@ -31,9 +31,9 @@ After completing these steps the bot will recognize that the user wants to show 
 1. Click on "+ Create" to create a new intent
 1. Enter "show-customers" as the name and click on "Create Intent"
 1. Click on the newly created intent and add some expressions: e.g.
-  - show customers
-  - I want to see a list of customers
-  - view all customers
+   - show customers
+   - I want to see a list of customers
+   - view all customers
 1. Navigate to the "Build" tab
 1. Click on "+ Add skill"
 1. Enter "show customers" as the name and click on "Add"
@@ -58,7 +58,7 @@ After completing these steps the bot will recognize that the user wants to show 
 
 1. Click on "Send Message" and select "Custom"
 
-1.	In the "Response Script" editor, enter the following code:
+1.	In the "Response Script" editor, enter the following snippet:
 ```handlebars
 {
   "type": "list",
