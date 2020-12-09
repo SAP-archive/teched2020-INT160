@@ -1,14 +1,14 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 3 - Consume APIs and call webhooks from your chatbot
 
 In this exercise, we will add the actual functionality for receiving the tracking information of a parcel and display it in the response of the chatbot. We will do this in two different ways, first using a webhook and a custom built node.js service and afterwards purely with the capabilities of SAP Conversational AI without any additional code.
 
-## Exercise 1.1 Use a webhook to connect to an existing node.js service
+## Exercise 1.1 - Use a webhook to connect to an existing node.js service
 
 Follow the tutorial [Add Webhook to Chatbot to Retrieve Tracking Info](https://developers.sap.com/tutorials/cai-bot-shipping-2-api.html) in order to add a webhook to your chatbot built in previous excercises.
 
 
 
-## Exercise 1.2 Replace webhook with API Service Configuration
+## Exercise 1.2 - Replace webhook with API Service Configuration
 
 
 1.	Delete the webhook configuration and click on Connect External Service - Consume API Service
@@ -41,7 +41,7 @@ In the Body tab, paste the following JSON body:
 
 4.	Click on "Save"
 
-## Exercise 1.3 Show a list with tracking info
+## Exercise 1.3 - Show a list with tracking info
 5. Click on "Add new message group" at the very bottom
 6. Click on "Add Condition" and in input field after the "If", enter
 `_api_service_response.data.body.TrackResponse`
@@ -68,7 +68,7 @@ In the Body tab, paste the following JSON body:
 10. Click on Save
 
 
-## Exercise 1.4 Show the error message when receiving tracking info failed
+## Exercise 1.4 - Show the error message when receiving tracking info failed
 1. Click on "Add new message group" at the very bottom
 2. Click on "Add Condition" and in input field after the "If", enter
 `_api_service_response.data.body.Fault`
@@ -80,7 +80,7 @@ Sorry I could not find any information with the offered number. I met the error:
 ```
 6. Click on Save
 
-## Exercise 1.5 Test your bot
+## Exercise 1.5 - Test your bot
 1. Now you can test your bot again by clicking on "Chat Preview" in the bottom right corner.
 2. Enter "track parcel 1Z74A08E6895571431"
 3. A list with the tracking history should be displayed
