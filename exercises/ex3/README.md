@@ -65,19 +65,19 @@ In the Body tab, paste the following JSON body:
 }
 ```
 10. Click on Save
-5. Click on "Add new message group" at the very bottom
-6. Click on "Add Condition" and in input field after the "If", enter
+11. Click on "Add new message group" at the very bottom
+12. Click on "Add Condition" and in input field after the "If", enter
 `_api_service_response.data.body.Fault`
-7. Click on Save and select "is-present" in the second field appearing
-8. Directly below the condition you just added, click on "Send Message" and select "Text"
-10. Enter the following text:
+13. Click on Save and select "is-present" in the second field appearing
+14. Directly below the condition you just added, click on "Send Message" and select "Text"
+15. Enter the following text:
 ```
 Sorry I could not find any information with the offered number. I met the error: {{api_service_response.data.body.Fault.detail.Errors.ErrorDetail.PrimaryErrorCode.Description}}
 ```
-11. Click on Save
-12. Now you can test your bot again by clicking on "Chat Preview" in the bottom right corner.
-13. Enter "track parcel https://www.trackingmore.com/ups-tracking.html?number=1Z74A08E6895571431"
-15. A list with the tracking history should be displayed
+16. Click on Save
+17. Now you can test your bot again by clicking on "Chat Preview" in the bottom right corner.
+18. Enter "track parcel https://www.trackingmore.com/ups-tracking.html?number=1Z74A08E6895571431"
+19. A list with the tracking history should be displayed
 
 
 ## Summary
