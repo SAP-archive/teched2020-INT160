@@ -80,7 +80,15 @@ Sorry I could not find any information with the offered number. I met the error:
 ```
 6. Click on Save
 
-## Exercise 1.5 - Test your bot
+## Excercise 1.5 - Empty memory fields after result is displayed
+1. Click on "Add new message group" at the very bottom
+2. In the newly added message group, click on "Update Conversation" and select "Edit Memory"
+3. Below "Unset Memory Field", enter "yes"
+4. Click on "Add fields" and enter "activity"
+5. Repeat this again to add "parcel-number"
+6. Click on "Save"
+
+## Exercise 1.6 - Test your bot
 1. Now you can test your bot again by clicking on "Chat Preview" in the bottom right corner.
 2. Enter "track parcel 1Z74A08E6895571431"
 3. A list with the tracking history should be displayed
