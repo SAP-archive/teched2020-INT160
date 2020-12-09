@@ -41,6 +41,7 @@ In the Body tab, paste the following JSON body:
 
 4.	Click on "Save"
 
+## Exercise 1.3 Show a list with tracking info
 5. Click on "Add new message group" at the very bottom
 6. Click on "Add Condition" and in input field after the "If", enter
 `_api_service_response.data.body.TrackResponse`
@@ -65,19 +66,24 @@ In the Body tab, paste the following JSON body:
 }
 ```
 10. Click on Save
-11. Click on "Add new message group" at the very bottom
-12. Click on "Add Condition" and in input field after the "If", enter
+
+
+## Exercise 1.4 Show the error message when receiving tracking info failed
+1. Click on "Add new message group" at the very bottom
+2. Click on "Add Condition" and in input field after the "If", enter
 `_api_service_response.data.body.Fault`
-13. Click on Save and select "is-present" in the second field appearing
-14. Directly below the condition you just added, click on "Send Message" and select "Text"
-15. Enter the following text:
+3. Click on Save and select "is-present" in the second field appearing
+4. Directly below the condition you just added, click on "Send Message" and select "Text"
+5. Enter the following text:
 ```
 Sorry I could not find any information with the offered number. I met the error: {{api_service_response.data.body.Fault.detail.Errors.ErrorDetail.PrimaryErrorCode.Description}}
 ```
-16. Click on Save
-17. Now you can test your bot again by clicking on "Chat Preview" in the bottom right corner.
-18. Enter "track parcel https://www.trackingmore.com/ups-tracking.html?number=1Z74A08E6895571431"
-19. A list with the tracking history should be displayed
+6. Click on Save
+
+## Exercise 1.5 Test your bot
+1. Now you can test your bot again by clicking on "Chat Preview" in the bottom right corner.
+2. Enter "track parcel 1Z74A08E6895571431"
+3. A list with the tracking history should be displayed
 
 
 ## Summary
